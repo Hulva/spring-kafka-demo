@@ -1,0 +1,8 @@
+kafka:
+  e4kafkaprops:
+    "[bootstrap.servers]": 10.16.236.126:9092,10.16.236.127:9092,10.16.236.128:9092
+    "[group.id]": hello-e4
+  e11kafkaprops:
+    "[bootstrap.servers]": 10.16.236.131:9092,10.16.236.132:9092,10.16.236.133:9092
+    "[group.id]": hello-e11
+    
